@@ -1,7 +1,7 @@
 # 🧠 LeetCode Çözümlerim
 
 Bu repo, LeetCode platformunda çözdüğüm algoritma, veri yapıları, matematik, SQL ve diğer teknik konulardaki soruların çözümlerini içermektedir.  
-Her yeni çözüm, [LeetSync](https://chrome.google.com/webstore/detail/leetsync/odogkcldkjbibefgkmobipnfgbpajkio) uzantısı aracılığıyla otomatik olarak bu depoya eklenmektedir.
+Her yeni çözüm, [LeetSync](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd?hl=tr&utm_source=ext_sidebar) uzantısı aracılığıyla otomatik olarak bu depoya eklenmektedir.
 
 ## 📌 Amaç
 - Problem çözme becerilerimi geliştirmek 🧠
